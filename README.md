@@ -1,8 +1,8 @@
 # OpenRed
 
-**Live Site:** https://openred-pi.vercel.app
+**Live Site (Cloudflare Pages):** https://openred-agg.pages.dev
 
-**OpenRed** is an open-source, uncensored Reddit alternative built with React 19, TypeScript, Tailwind CSS v4, Vercel Serverless Functions, and Neon Serverless Postgres.
+**OpenRed** is an open-source, uncensored Reddit alternative built with React 19, TypeScript, Tailwind CSS v4, Cloudflare Pages Functions (and Vercel Serverless Functions), and Neon Serverless Postgres.
 
 ## Why OpenRed?
 
